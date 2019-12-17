@@ -1,3 +1,4 @@
+[![Build Status](https://gl-development.visualstudio.com/Gorilla/_apis/build/status/ttfmitaylor.pipelines-java?branchName=master)](https://gl-development.visualstudio.com/Gorilla/_build/latest?definitionId=50&branchName=master)
 
 # Contributing
 
